@@ -1,7 +1,5 @@
 <b>The base concept behind the 'ClosedEmailAddressProtocol' </b><br/>
-<br/>
 The concept is a very simple one. <br/>
-<br/>
 <table>
  <tr>
   <td>Open RFC822 Email address</td><td>someone@somedomain.com </td>
