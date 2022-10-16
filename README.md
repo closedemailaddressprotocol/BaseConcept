@@ -1,1 +1,15 @@
-<b>This will be where the projects past concepts are explained.</b>
+<b>The base concept behind the 'ClosedEmailAddressProtocol' </b><br/>
+<br/>
+The concept is a very simple one. <br/>
+<br/>
+<table>
+ <tr>
+  <td>Open RFC822 Email address</td><td>someone@somedomain.com </td>
+ </tr>
+ <tr>
+ <td>Closed RFC822 Email Address</td><td><i>hash_access_code</i>#someone@somedomain.com</td>
+ </tr>
+</table>
+<br/>
+
+
