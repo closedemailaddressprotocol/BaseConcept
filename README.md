@@ -27,7 +27,7 @@ Fast forward 18+ years, the end-user landscape has now changed dramatically with
 With updated and open source components with multiple contributors, the goal of this project would be to revamp the initial concept and bring it back into both technical
 reality and practical use.<br/>.
 <br/>
-Along woth this basic concept can be found the initial provisional patent document (with IP Attorney information redacted for confidentiallity). <br/>
+Along with this basic concept can be found the initial provisional patent document (with IP Attorney information redacted for confidentiallity). <br/>
 Initial program code (VB6 and Perl 5). for both a Windows based ESMTP server (Typhoon), and hosted solution originally called 'CalicoMail' that utilized sendmail and Perl 5.<br/>
 
 
