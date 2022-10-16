@@ -12,3 +12,7 @@ The concept is a very simple one. <br/>
 <br/>
 
 
+| Open Email Address   | someone@somedomain.com                    |
+|----------------------|-------------------------------------------|
+| Closed Email Address | <hash_access_code>#someone@somedomain.com |
+
