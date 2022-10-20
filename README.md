@@ -30,4 +30,25 @@ reality and practical use.<br/>.
 Along with this basic concept can be found the initial provisional patent document (with IP Attorney information redacted for confidentiallity). <br/>
 Initial program code (VB6 and Perl 5). for both a Windows based ESMTP server (Typhoon), and hosted solution originally called 'CalicoMail' that utilized sendmail and Perl 5.<br/>
 
-
+<br/>
+The concept in a nutshell:<br/>
+<br/>
+Effectively the symetric_hash acts as a 'lid' on your email box. Providing protection against Spam and Phishing emails.<br/>
+For an organization, the symetric_hash could be a rolling value like a code of the day.<br/>
+<br/>
+<table>
+<tr><td wrap=nowrap valign=top>Traditonal 'Open Email Address'</td><td wrap=nowrap valign=top>CEAP 'Closed Email Address'</td></tr>
+<tr><td wrap=nowrap valign=bottom>myuser@mydomain.com</td><td wrap=nowrap valign=top>s<br/>
+                                                                        y<br/>
+                                                                        m<br/>
+                                                                        e<br/>
+                                                                        t<br/>
+                                                                        r<br/>
+                                                                        i<br/>
+                                                                        c<br/>
+                                                                        _<br/>
+                                                                        h<br/>
+                                                                        a<br/>
+                                                                        s<br/>
+                                                                        h<br/>#myuser@mydomain.com</td></tr>
+</table>
