@@ -11,7 +11,7 @@ The concept is a very simple one. <br/>
 </table>
 <br/>
 <br>
-The <i>hash_access_code</i> would be a symetric hash using the current encryption technology.<br/>
+The <i>hash_access_code</i> would be a symmetric hash using the current encryption technology.<br/>
 <br/>
 Existing *nix based ESMTP daemons would either be directly patched to understand this extension or have configuration rules added.<br/>
 <br/>
@@ -33,13 +33,14 @@ Initial program code (VB6 and Perl 5). for both a Windows based ESMTP server (Ty
 <br/>
 The concept in a nutshell:<br/>
 <br/>
-Effectively the symetric_hash acts as a 'lid' on your email box. Providing protection against Spam and Phishing emails.<br/>
-For an organization, the symetric_hash could be a rolling value like a code of the day.<br/>
+Effectively the symmetric_hash acts as a 'lid' on your email box. Providing protection against Spam and Phishing emails.<br/>
+For an organization, the symmetric_hash could be a rolling value like a code of the day.<br/>
 <br/>
 <table>
 <tr><td wrap=nowrap valign=top>Traditonal 'Open Email Address'</td><td wrap=nowrap valign=top>CEAP 'Closed Email Address'</td></tr>
 <tr><td wrap=nowrap valign=bottom>myuser@mydomain.com</td><td wrap=nowrap valign=top>s<br/>
                                                                         y<br/>
+                                                                        m<br/>
                                                                         m<br/>
                                                                         e<br/>
                                                                         t<br/>
